@@ -1,0 +1,22 @@
+body{
+    background-image: url('backgrounddd.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+h1{
+    display: flex;
+    padding-left: 10vh;
+    padding-top: 10px;
+}
+
+.Sites{
+    padding-top: 20px;
+    display: grid;
+    row-gap: 10px;
+}
+
+.Headlines{
+    padding-top: 20px;
+    display: grid;
+    row-gap: 10px;
+}
